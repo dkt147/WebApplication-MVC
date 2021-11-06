@@ -1,0 +1,11 @@
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\bin\Debug\Student Management System.exe.config
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\bin\Debug\Student Management System.exe
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\bin\Debug\Student Management System.pdb
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.csprojAssemblyReference.cache
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.About.resources
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.NewStudent.resources
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\obj\Debug\Student_Management_System.Properties.Resources.resources
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.GenerateResource.cache
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.csproj.CoreCompileInputs.cache
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.exe
+C:\Deidre\Module 3\Student Management System\Student Management System\Student Management System\obj\Debug\Student Management System.pdb
